@@ -1,0 +1,3 @@
+created using diabetes dataset from: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
+the dataset can be use to predict whether someone get diabetes or not, but this project created to predict whether someone have low, meidum or high risk of diabetes. Therefore, clustering used in this project to get 3 class (low, meidum or high risk of diabetes) and then classification used to predict which class fit better to the input.
